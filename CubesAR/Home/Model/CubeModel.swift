@@ -53,8 +53,4 @@ struct CubeModel {
         return cubeNode
     }
     
-    func generateStar() {
-        let star = SCNC
-    }
-    
 }
